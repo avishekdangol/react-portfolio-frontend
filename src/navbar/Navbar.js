@@ -1,5 +1,5 @@
-import { Container, Navbar, Nav } from 'react-bootstrap'
-import logo from '../logo.svg'
+import { Container, Navbar, Nav } from "react-bootstrap";
+import logo from "../logo.svg";
 
 function NavBar() {
   return (
@@ -26,7 +26,7 @@ function NavBar() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-  )
+  );
 }
 
-export default NavBar
+export default NavBar;
